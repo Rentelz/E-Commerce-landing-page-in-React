@@ -1,0 +1,22 @@
+{
+  "name": "ecommerce-product-page-main-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "images": "^3.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "src": "^1.1.2"
+  }
+}
